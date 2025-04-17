@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AzrilYanuar
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Coding, Korean
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in IOT stuff 
+- 🌱 I’m currently learning ... Microcontrollers
+- 💞️ I’m looking to collaborate on ... Anything really
 - 📫 How to reach me ... azrilayh@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... My favorite food is Fried Rice
